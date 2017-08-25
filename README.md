@@ -1,7 +1,7 @@
 # node-es6
 **Node ES6** is a simple code sample that shows how to use all of ES6 features in a Node application.
 
-The ES6 features that are implemented are :
+The ES6 features that are implemented in this sample are :
 * Arrow Functions
 * Classes
 * Template Strings
